@@ -3,6 +3,7 @@
 Sube aquí tu captura de pantalla del repositorio en GitHub.
 
 El archivo debe llamarse `captura.png` (o `captura.jpg`).
+'captura.jpn![Uploading image.png…]()
 
 **Pasos:**
 1. Abre tu repositorio en GitHub en el navegador
